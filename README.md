@@ -1,5 +1,16 @@
-# 💫 About Me:
-Here's a more **senior-level, technical, and professional About Me** that sounds like an aspiring AI Engineer/Software Engineer rather than a student:<br><br>## About Me<br><br>I'm **Jeevan Sai**, an Artificial Intelligence & Data Science undergraduate specializing in **Applied AI, Intelligent Automation, Full-Stack Engineering, and Cloud-Native Systems**.<br><br>My primary focus is designing and developing scalable software systems that integrate artificial intelligence, automation, and modern cloud infrastructure to solve complex real-world challenges. I am passionate about building production-oriented applications that combine intelligent decision-making, data-driven insights, and robust engineering practices.<br><br>My technical expertise spans **Artificial Intelligence, Machine Learning, Generative AI, AI Agents, Backend Engineering, Full-Stack Development, Cloud Computing, and System Design**. I have hands-on experience architecting AI-powered platforms, intelligent automation workflows, cloud-backed applications, computer vision systems, and Edge-AI solutions using technologies such as **Python, JavaScript, React, Node.js, TensorFlow, Scikit-learn, MongoDB, AWS, Google Cloud Platform, Docker, and modern API ecosystems**.<br><br>I am particularly interested in the emerging field of **AI Engineering**, where advanced machine learning systems intersect with software architecture, distributed systems, cloud infrastructure, and production deployment. My goal is to bridge the gap between cutting-edge AI innovation and enterprise-grade software engineering by creating intelligent, scalable, reliable, and impactful digital solutions.<br><br>Beyond development, I continuously explore topics such as **Large Language Models (LLMs), Agentic AI Systems, Retrieval-Augmented Generation (RAG), MLOps, Cloud Architecture, Distributed Computing, System Design, and High-Performance Backend Engineering**. I believe that exceptional software is built through a combination of technical excellence, continuous learning, and a deep understanding of user needs.<br><br>### Core Expertise<br><br>* 🤖 Artificial Intelligence & Machine Learning<br>* 🧠 Generative AI, LLMs & AI Agents<br>* 💻 Full-Stack Software Engineering<br>* ⚙️ Intelligent Automation & Workflow Systems<br>* ☁️ Cloud Computing & Distributed Architectures<br>* 🏗️ Backend Engineering & System Design<br>* 📊 Data Science & Predictive Analytics<br>* 🚀 Scalable, Production-Ready Applications<br><br>### Engineering Philosophy<br><br>> Build intelligent systems that are not only innovative, but scalable, maintainable, reliable, and capable of delivering measurable real-world impact.<br><br>This version uses terminology commonly seen on portfolios of AI Engineers, ML Engineers, Software Engineers, and candidates targeting top product companies.<br>
+## 👨‍💻 About Me
+
+AI & Data Science Undergraduate focused on building intelligent systems, scalable backend architectures, and cloud-native applications.<br><br>
+
+🔹 Applied AI & Machine Learning<br>
+🔹 Full-Stack Development<br>
+🔹 Intelligent Automation & AI Agents<br>
+🔹 Cloud Computing & System Design<br>
+🔹 Open Source & Continuous Learning<br><br>
+
+Currently exploring LLMs, Agentic AI, RAG Systems, MLOps, and Production AI Engineering.<br><br>
+
+> Building intelligent systems that create measurable real-world impact.
 
 
 ## 🌐 Socials:
