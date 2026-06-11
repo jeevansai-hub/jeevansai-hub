@@ -14,7 +14,7 @@ Building intelligent systems that combine Artificial Intelligence, Software Engi
 ▸ Engineering AI-powered applications and intelligent automation platforms<br>
 ▸ Designing scalable backend architectures and cloud-native solutions<br>
 ▸ Developing Agentic AI systems using LLMs, RAG, and modern AI frameworks<br>
-▸ Building production-ready software with a focus on scalability, reliability, and performance<br>
+▸ Building production-ready software with a focus on scalability, reliability, and performance<br> 
 ▸ Advancing expertise in System Design, Distributed Systems, and AI Infrastructure
 
 ## 🌐 Socials:
