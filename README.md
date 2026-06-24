@@ -11,7 +11,7 @@ AI & Data Science Undergraduate focused on building intelligent systems, scalabl
 Currently exploring LLMs, Agentic AI, RAG Systems, MLOps, and Production AI Engineering.<br><br>
 Building intelligent systems that combine Artificial Intelligence, Software Engineering, and Cloud Infrastructure.<br><br>
 
-▸ Engineering AI-powered applications and intelligent automation platforms<br>
+▸ Engineering AI-powered applications and intelligent automation platforms<br> 
 ▸ Designing scalable backend architectures and cloud-native solutions<br>
 ▸ Developing Agentic AI systems using LLMs, RAG, and modern AI frameworks<br>
 ▸ Building production-ready software with a focus on scalability, reliability, and performance<br> 
