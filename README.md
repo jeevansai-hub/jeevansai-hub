@@ -15,7 +15,7 @@ Building intelligent systems that combine Artificial Intelligence, Software Engi
 ▸ Designing scalable backend architectures and cloud-native solutions<br>
 ▸ Developing Agentic AI systems using LLMs, RAG, and modern AI frameworks<br>
 ▸ Building production-ready software with a focus on scalability, reliability, and performance<br> 
-▸ Advancing expertise in System Design, Distributed Systems, and AI Infrastructure
+▸ Advancing expertise in System Design, Distributed Systems, and AI Infrastructure 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jeevan Sai Majji) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeevansaimajji@gmail.com)
