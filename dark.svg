@@ -44,35 +44,7 @@
     <path d="M55 36H1120Q1144 36 1144 60V146Q930 81 690 69Q340 54 55 122Z" fill="#fff" opacity=".025"/>
 
     <!-- ASCII portrait panel -->
-    <rect x="42" y="42" width="400" height="526" rx="22" fill="url(#panel)" stroke="#fff" stroke-opacity=".12"/>
-    <circle cx="66" cy="67" r="5" fill="#f8fafc" opacity=".75"/><circle cx="83" cy="67" r="5" fill="#9ca3af" opacity=".6"/><circle cx="100" cy="67" r="5" fill="#4b5563" opacity=".65"/>
-    <text x="120" y="72" class="mono" font-size="11" fill="#7f8792">portrait.sh — rendering</text>
-    <line x1="42" y1="90" x2="442" y2="90" stroke="#fff" stroke-opacity=".08"/>
-    <g clip-path="url(#asciiClip)">
-      <g filter="url(#glow)" xml:space="preserve"><animateTransform attributeName="transform" type="translate" values="0 2;0 -5;0 2" dur="6s" repeatCount="indefinite"/>
-        <text x="78" y="142" class="ascii" opacity="0">          .-""""""""-.<animate attributeName="opacity" values="0;1" dur=".18s" begin=".2s" fill="freeze"/></text>
-        <text x="78" y="162" class="ascii" opacity="0">       .-'            '-.<animate attributeName="opacity" values="0;1" dur=".18s" begin=".34s" fill="freeze"/></text>
-        <text x="78" y="182" class="ascii" opacity="0">     .'     .-''''-.     '.<animate attributeName="opacity" values="0;1" dur=".18s" begin=".48s" fill="freeze"/></text>
-        <text x="78" y="202" class="ascii" opacity="0">    /      /  _  _  \      \<animate attributeName="opacity" values="0;1" dur=".18s" begin=".62s" fill="freeze"/></text>
-        <text x="78" y="222" class="ascii" opacity="0">   |      |  (o)(o)  |      |<animate attributeName="opacity" values="0;1" dur=".18s" begin=".76s" fill="freeze"/></text>
-        <text x="78" y="242" class="ascii" opacity="0">   |      |     ^     |      |<animate attributeName="opacity" values="0;1" dur=".18s" begin=".9s" fill="freeze"/></text>
-        <text x="78" y="262" class="ascii" opacity="0">   |      |   .---.   |      |<animate attributeName="opacity" values="0;1" dur=".18s" begin="1.04s" fill="freeze"/></text>
-        <text x="78" y="282" class="ascii" opacity="0">   |       \  '-'  /       |<animate attributeName="opacity" values="0;1" dur=".18s" begin="1.18s" fill="freeze"/></text>
-        <text x="78" y="302" class="ascii" opacity="0">    \       '.___.'       /<animate attributeName="opacity" values="0;1" dur=".18s" begin="1.32s" fill="freeze"/></text>
-        <text x="78" y="322" class="ascii" opacity="0">     '.       | |       .'<animate attributeName="opacity" values="0;1" dur=".18s" begin="1.46s" fill="freeze"/></text>
-        <text x="78" y="342" class="ascii" opacity="0">       '-.___/   \__.-'<animate attributeName="opacity" values="0;1" dur=".18s" begin="1.6s" fill="freeze"/></text>
-        <text x="78" y="362" class="ascii" opacity="0">          /  |   |  \<animate attributeName="opacity" values="0;1" dur=".18s" begin="1.74s" fill="freeze"/></text>
-        <text x="78" y="382" class="ascii" opacity="0">        _/   |   |   \_<animate attributeName="opacity" values="0;1" dur=".18s" begin="1.88s" fill="freeze"/></text>
-        <text x="78" y="402" class="ascii" opacity="0">      .'     |   |     '.<animate attributeName="opacity" values="0;1" dur=".18s" begin="2.02s" fill="freeze"/></text>
-        <text x="78" y="422" class="ascii" opacity="0">     /      /     \      \<animate attributeName="opacity" values="0;1" dur=".18s" begin="2.16s" fill="freeze"/></text>
-        <text x="78" y="442" class="ascii" opacity="0">    /______/       \______\<animate attributeName="opacity" values="0;1" dur=".18s" begin="2.3s" fill="freeze"/></text>
-        <text x="78" y="462" class="ascii" opacity="0">   /_______________________\<animate attributeName="opacity" values="0;1" dur=".18s" begin="2.44s" fill="freeze"/></text>
-      </g>
-      <rect x="48" y="92" width="374" height="38" fill="url(#shine)" opacity=".11"><animate attributeName="y" values="92;520;92" dur="5.5s" repeatCount="indefinite"/></rect>
-    </g>
-    <text x="68" y="536" class="mono" font-size="11" fill="#707782">IDENTITY / JEEVAN_SAI</text>
-    <rect x="278" y="526" width="8" height="14" fill="#d1d5db"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
-
+    
     <!-- terminal -->
     <rect x="462" y="42" width="676" height="526" rx="22" fill="url(#panel)" stroke="#fff" stroke-opacity=".12"/>
     <circle cx="486" cy="67" r="5" fill="#f8fafc" opacity=".75"/><circle cx="503" cy="67" r="5" fill="#9ca3af" opacity=".6"/><circle cx="520" cy="67" r="5" fill="#4b5563" opacity=".65"/>
